@@ -1,0 +1,2 @@
+# Data_Cleaning-Preprocessing-Linear-LogisticRegression_Models_Implementation
+Each notebook guides the user from raw data to actionable insights, covering the full ML pipeline: data cleaning → feature engineering → exploratory analysis → model training → evaluation. It also emphasizes best practices for scaling, balancing, dimensionality reduction, and feature interactions to achieve optimal results.
